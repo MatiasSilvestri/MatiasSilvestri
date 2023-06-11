@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matias Silvestri</h1>
-<h3 align="center">I'am web Developer Front-End and Back-End. I work with JavaScript, Python, ReactJS, Django and NodeJs</h3>
-
+<h2 align="center">I'am web Developer Front-End and Back-End. I work with JavaScript, Python, ReactJS, Django and NodeJs</h2>
+<h5 class="about_me">
+  I am a Back-End Developer, I have a Technical Degree in Programming and Computer Science. Work on standalone projects with the Django Rest Framework creating and managing Rest   APIs, I am currently in the area of Web Development. I also specialize in the field of DevOps with Docker and Postman. I am also familiar with the Front-End field, I use the     ViteJS framework, together with the ReatJS Framework.😄👨🏻‍💻
+</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiassilvestri&label=Profile%20views&color=0e75b6&style=flat" alt="matiassilvestri" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@mattdev90510" target="blank"><img src="https://img.shields.io/twitter/follow/@mattdev90510?logo=twitter&style=for-the-badge" alt="@mattdev90510" /></a> </p>
