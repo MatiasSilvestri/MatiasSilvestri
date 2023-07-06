@@ -9,7 +9,7 @@
 <a href="https://twitter.com/@mattdev90510" target="blank"><img src="https://img.shields.io/twitter/follow/@mattdev90510?logo=twitter&style=for-the-badge" alt="@mattdev90510" /></a> 
 - 👨‍💻 All of my projects are available at [https://mattsdev.netlify.app/](https://mattsdev.netlify.app/)
 
-- 📫 How to reach me **matiote2001@hotmail.com.**
+- 📫 How to reach me **matiote2001@hotmail.com.ar**
 
 - 📄 Know about my experiences [https://github.com/MatiasSilvestri/MatiasSilvestri.github.io/blob/main/CV_MatiasSilvestri.pdf](https://github.com/MatiasSilvestri/MatiasSilvestri.github.io/blob/main/CV_MatiasSilvestri.pdf)
 
