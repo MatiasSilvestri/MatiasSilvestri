@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matias Silvestri</h1>
-<h2 align="center">I'am web Developer Front-End and Back-End. I work with JavaScript, Python, ReactJS, Django and NodeJs</h2>
+<h2 align="center">I'am web Programmer Back-End. I am a backend web developer, API Rest Data Base manager.</h2>
 <img src="main.jpg">
 <h5 class="about_me">
-  I am a Back-End Developer, I have a Technical Degree in Programming and Computer Science. Work on standalone projects with the Django Rest Framework creating and managing Rest   APIs, I am currently in the area of Web Development. I also specialize in the field of DevOps with Docker and Postman. I am also familiar with the Front-End field, I use the     ViteJS framework, together with the ReatJS Framework.😄👨🏻‍💻
+ Soy Matías Daniel Silvestri. Soy Back End Developer, me encargo de la creación y mantenimiento de Apps, Sitios y Páginas Web profesionales, también tengo conocimientos en el área de Bases de Datos y en 
+ Lenguajes Java, JavaScript, Python, PHP y SQL (Structure-Query-Languages). Soy capaz de Crear y gestionar el Back-End de un Sitio, Aplicación y/o Página Web. También tengo buenos conocimientos en Linux, 
+ Cloud Computing y gestión de Kubernetes con Docker.😄👨🏻‍💻
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiassilvestri&label=Profile%20views&color=0e75b6&style=flat" alt="matiassilvestri" /> </p>
 
