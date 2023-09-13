@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiassilvestri&label=Profile%20views&color=0e75b6&style=flat" alt="matiassilvestri" /> </p>
 
 <a href="https://twitter.com/mattdev90510" target="blank"><img src="https://img.shields.io/twitter/follow/@mattdev90510?logo=twitter&style=for-the-badge" alt="@mattdev90510" /></a> 
-<a href="https://twitter.com/mattdev90510" target="blank"><img src="https://img.shields.io/twitter/follow/@mattdev90510?logo=twitter&style=for-the-badge" alt="@mattdev90510" /></a> 
 - 👨‍💻 All of my projects are available at [https://mattsdev.netlify.app/](https://mattsdev.netlify.app/)
 
 - 📫 How to reach me **matiote2001@hotmail.com.ar**
