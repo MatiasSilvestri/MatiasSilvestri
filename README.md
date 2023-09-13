@@ -4,7 +4,7 @@
 <h5 class="about_me">
  Soy Matías Daniel Silvestri. Soy Back End Developer, me encargo de la creación y mantenimiento de Apps, Sitios y Páginas Web profesionales, también tengo conocimientos en el área de Bases de Datos y en 
  Lenguajes Java, JavaScript, Python, PHP y SQL (Structure-Query-Languages). Soy capaz de Crear y gestionar el Back-End de un Sitio, Aplicación y/o Página Web. También tengo buenos conocimientos en Linux, 
- Cloud Computing y gestión de Kubernetes con Docker.😄👨🏻‍💻
+ Cloud Computing y gestión de Kubernetes con Docker. I have 1 year of experience working on a Cryptocurrency API project.😄👨🏻‍💻
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiassilvestri&label=Profile%20views&color=0e75b6&style=flat" alt="matiassilvestri" /> </p>
 
