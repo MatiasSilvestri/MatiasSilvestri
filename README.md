@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/aa5bc7b9a3609052bddfa43ad2bdb3736b1ea504/resources/img/grid-snake.svg" width="snake">
 <p align="left"> 
 <a href="https://twitter.com/mattdev90510" target="blank"><img src="https://img.shields.io/twitter/follow/@mattdev90510?logo=twitter&style=for-the-badge" alt="@mattdev90510" /></a><hr>
-- 👨‍💻 All of my projects are available at [https://mattsdev.netlify.app/](https://mattsdev.netlify.app/)
+- 👨‍💻 All of my projects are available at  <a href="https://mattsdev.netlify.app/"  target="blank">mattsdev.netlify.app</a>
 
 - 📫 How to reach me **matiote2001@hotmail.com.ar**
 
