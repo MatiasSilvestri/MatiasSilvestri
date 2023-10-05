@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Matias Silvestri</h1>
-<h2 align="center">I'am Advanced Programming Technician. Specialised in Basck-End and DevOps. API Rest Data Base Manager.</h2>
+<h2 align="center">I'am Advanced Programming Technician. Specialised in Basck-End and DevOps. Data Base Manager.</h2>
 <img src="main.jpg">
 <h5 class="about_me">
  Soy Matías Daniel Silvestri. Soy Back End Developer, me encargo de la creación y mantenimiento de Apps, Sitios y Páginas Web profesionales, también tengo conocimientos en el área de Bases de Datos y en 
