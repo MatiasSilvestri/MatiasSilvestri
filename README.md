@@ -2,9 +2,9 @@
 <h2 align="center">I'am Advanced Programming Technician. Specialised in Basck-End and DevOps. Data Base Manager.</h2>
 <img src="main.jpg">
 <h5 class="about_me">
- Soy Matías Daniel Silvestri. Soy Back End Developer, me encargo de la creación y mantenimiento de Apps, Sitios y Páginas Web profesionales, también tengo conocimientos en el área de Bases de Datos y en 
- Lenguajes Java, JavaScript, Python, PHP y SQL (Structure-Query-Languages). Soy capaz de Crear y gestionar el Back-End de un Sitio, Aplicación y/o Página Web. También tengo buenos conocimientos en Linux, 
- Cloud Computing y gestión de Kubernetes con Docker. I have 1 year of experience working on a Cryptocurrency API project.😄👨🏻‍💻 
+  My name is Matías Daniel Silvestri. I'm a Back End Developer, I'm in charge of the creation and maintenance of Apps, Sites and professional Web Pages, I also have knowledge in the area of Databases and 
+  in Java, JavaScript, Python, PHP and SQL (Structure-Query-Languages). I am able to create and manage the Back-End of a Site, Application and/or Web Page. I also have good knowledge in Linux, 
+  Cloud Computing and Kubernetes management with Docker. I have 1 year of experience working on a Cryptocurrency API project.😄👨🏻‍💻 
 </h5>
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/aa5bc7b9a3609052bddfa43ad2bdb3736b1ea504/resources/img/grid-snake.svg" width="snake">
 <p align="left"> 
@@ -18,7 +18,7 @@
 
 <p align="left">
   <h2 align="left"> <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="190px"></picture><br>
-    <a href="https://www.reddit.com/u/Back-End_Geek2001?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="@mattdev90510" height="30" width="40" /></a><a href="https://twitter.com/@mattdev90510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mattdev90510" height="30" width="40" /></a>
+    <a href="https://twitter.com/@mattdev90510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mattdev90510" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/www.linkedin.com/in/matias-silvestri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/matias-silvestri" height="30" width="40" /></a>
     <a href="https://discord.gg/MattS.Dev(); 101101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MattS.Dev(); 101101" height="40" width="40" /></a>
   </h2>
